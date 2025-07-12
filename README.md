@@ -43,10 +43,10 @@ This project was created as part of my Python learning journey to practice GUI d
 - 💬 **Telegram**: [@i_sumit_nagar](https://t.me/Sumitkumarha386)
 
 ## 📸 PREVIEW
-![MAIN_PAGE](MAIN_PAGE.png)
-![ENTER_DOB](ENTER_DOB.png)
-![CHECK_AGE](CHECK_AGE.png)
-![INVALID_ERROR](INVALID_ERROR.png)
+![MAIN_PAGE](https://github.com/sumitkumar01104/Age-Calculator-App/blob/main/MAIN_PAGE.PNG)
+![ENTER_DOB](https://github.com/sumitkumar01104/Age-Calculator-App/blob/main/ENTER_DOB.png)
+![CHECK_AGE](https://github.com/sumitkumar01104/Age-Calculator-App/blob/main/CHECK_AGE.png)
+![INVALID_ERROR](https://github.com/sumitkumar01104/Age-Calculator-App/blob/main/INVALID_ERROR.png)
 
 
 
