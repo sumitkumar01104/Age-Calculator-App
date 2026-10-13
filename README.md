@@ -23,13 +23,13 @@ It allows users to input their date of birth and calculates their current age in
 - Tkinter (comes pre-installed with Python)
 
 ### Steps:
-1. Copy the code into a file, e.g., `age_calculator.py`
-2. Run it using this command:
+1. Download or clone this repository.
+2. Open the project folder in a terminal and run:
 
 ```bash
-   python age_calculator.py
-
+python "Age Calculator App.py"
 ```
+
 ## 📚 Learning Purpose
 This project was created as part of my Python learning journey to practice GUI development using Tkinter.
 
@@ -47,7 +47,6 @@ This project was created as part of my Python learning journey to practice GUI d
 ![ENTER_DOB](https://github.com/sumitkumar01104/Age-Calculator-App/blob/main/ENTER_DOB.PNG)
 ![CHECK_AGE](https://github.com/sumitkumar01104/Age-Calculator-App/blob/main/CHECK_AGE.PNG)
 ![INVALID_ERROR](https://github.com/sumitkumar01104/Age-Calculator-App/blob/main/INVALID_ERROR.PNG)
-
 
 
 
